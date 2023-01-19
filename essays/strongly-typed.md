@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why I Prefer Strongly Typed Languages"
+title: "Why I Like Strongly Typed Languages"
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
