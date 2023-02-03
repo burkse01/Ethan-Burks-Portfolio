@@ -2,7 +2,8 @@
 layout: project
 type: project
 title: "Turn Based Strategy Game"
-date: 2015
+image: img/unityimage.png
+date: 2020
 published: True
 labels:
   - Unity
