@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/schedule_image.png
 title: "Scheduling App"
 date: 2014
 published: true
