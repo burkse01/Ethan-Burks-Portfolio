@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: "Turn Based Strategy Game"
-image: img/unityimage.png
+image: img/unityimage.jpg
 date: 2020
 published: True
 labels:
