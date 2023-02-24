@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "On UI Frameworks"
-# All dates must be YYYY-MM-DD format!
 date: 2023-2-23
 published: true
 
