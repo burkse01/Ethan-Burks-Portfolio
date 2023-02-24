@@ -5,7 +5,7 @@ title: "On UI Frameworks"
 date: 2023-2-23
 published: true
 
-
+---
 
 UI frameworks are a tool which allows programmers to focus on designing a website rather than stressing about urls. I think that UI frameworks are a necessity in modern web development, as creating everything from scratch would be a huge waste of time. By learning UI frameworks, developers are able to spend there time improving a websites user interface, instead of worrying too much about the clunky aspects of HTML. 
 
