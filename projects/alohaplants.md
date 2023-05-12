@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - Javascript
-summary: A website "
+summary: A website I worked on in my ICS 314 Class"
 ---
 <img class="img-fluid" src="../img/landing.png">
 
