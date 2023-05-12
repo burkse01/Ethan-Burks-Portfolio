@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Flowers-2.jpg
+image: img/Flowers-2.png
 title: "Scheduling App"
 date: 2023
 published: true
