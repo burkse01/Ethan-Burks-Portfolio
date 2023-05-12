@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Flowers-2.jpg
 title: "Scheduling App"
-date: 2014
+date: 2023
 published: true
 labels:
   - Javascript
@@ -11,12 +11,10 @@ summary: "An app I worked on in Highschool to help teachers and students manage 
 ---
 
 
+From the Aloha Plants Website:
 
-During my senior year I participated in an Independent Study project in which I designed a prototype application to assist students and teachers in the organization of class schedules. I created survey questions to send out to teachers and students in order to get user input on what they'd want out of a scheduling app. Designed a prototype which was presented to the principal and dean. 
+'The “Aloha Plants” website allows you to search and view different native plants, forums, and community projects. When searching for native plants it will provide information on how to grow native species and the specific areas to cultivate the plants. This aids the fauna in Hawaii by giving resources to the community to allow them to increase biodiversity by hand. The user will also be exposed to various resources that foster community interaction such as the forums page and community projects page on the website. This will also give the community information to grow their own foods, which will allow the user’s within the community to potentially alleviate the hawaii food crisis.The website will also allow creator users to add in unlogged native plant species to provide users a new native plant variety to grow. This will allow us to log all plant species in a cloud environment, which can be provided to scientific institutes such as the College of Tropical Agriculture and Human Resources and The University of Hawaiʻi at Mānoa Botany Department.' 
 
-The app itself was meant to parse through several formated csv files, then merge them into one list, allowing students to see their schedule, homework and classwork in one place.
-
-After graduation, I had to cease work on the project. Most of the development I was able to do was in Javascript and html using the Cordova framework.
-
+This was a collaberative project I worked on in ICS 314. I focused on implementing the search function of the website, as well as designing the McCafe tests, and implementing those tests. The project used the meteor platform with the react framework.
 
 
