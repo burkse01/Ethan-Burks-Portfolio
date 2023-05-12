@@ -8,7 +8,7 @@ labels:
   - Engineering
 ---
 
-
+<img class="img-fluid" src="../img/food.jpg">
 
 Design patterns are like recipes for software development, providing a standard approach to common programming problems. Just as a recipe provides a set of steps to follow in order to create a delicious dish, a design pattern provides a set of best practices to follow when designing software solutions.
 
