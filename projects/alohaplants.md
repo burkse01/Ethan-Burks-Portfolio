@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Flowers-2.png
-title: "Scheduling App"
+title: "Aloha Plants"
 date: 2023
 published: true
 labels:
