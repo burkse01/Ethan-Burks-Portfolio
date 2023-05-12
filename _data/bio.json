@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": "Ethan Burks",
+    "label": "Student",
+    "picture": "https://github.com/burkse01.png",
+    "email": "burkse@hawaii.edu",
+    "phone": "808-225-0931",
+    "website": "https://burkse01.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "burkse01", "url": "http://github.com/burkse01" },
+      { "network": "linkedin", "username": "ethan-burks", "url": "https://www.linkedin.com/in/ethan-burks-7a0a76261/" },
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Web Development" },
+    { "name": "Graphic Design" },
+    { "name": "Machine Learning" },
+    { "name": "Game Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++","C#", "Java", "Javascript", "Assembly" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Board Scheduling Office",
+      "position": "Scheduling Assistant",
+      "website": "",
+      "startDate": "2021-10-10",
+      "endDate": "Present",
+      "summary": "Enter scheduling data into UH database.",
+      
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
