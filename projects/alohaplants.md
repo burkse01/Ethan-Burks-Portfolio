@@ -7,9 +7,9 @@ date: 2023
 published: true
 labels:
   - Javascript
-summary: "An app I worked on in Highschool to help teachers and students manage their schedule"
+summary: A website "
 ---
-
+<img class="img-fluid" src="../img/landing.png">
 
 From the Aloha Plants Website:
 
