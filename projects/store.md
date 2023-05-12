@@ -4,7 +4,7 @@ type: project
 image: img/kimchi.jpg
 title: "Family Korean Store"
 date: 2015
-published: true
+published: false
 
 summary: "Helped my Grandmother Manage Korean Store"
 ---
